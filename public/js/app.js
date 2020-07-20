@@ -14,7 +14,7 @@ weatherForm.addEventListener('submit',(e)=>{
                 if(data.error)
                 message1.textContent = data.error;
                 else
-                message1.textContent = data.weather_report;
+                message1.textContent = "AYYAAAVAAAAA BOMBAAIIIIIIII";
             });       
 
      });
